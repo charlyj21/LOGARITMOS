@@ -5,7 +5,7 @@ package SEMANA02;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 public class tarea06 {
     public static void main(String[] args) {

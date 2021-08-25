@@ -5,23 +5,25 @@
  */
 package SEMANA03;
 
+import java.util.Random;
 import java.util.Scanner;
 
 /**
  *
  * @author Carlos Jesus Flores Herrera
  */
-public class ejerc05 {
+public class tarea01 {
     public static void main(String[] args) {
         Scanner test = new Scanner(System.in);
+        Random r = new Random();
         int posi=0,nega=0,cero=0;
         int array[];
         array = new int[10];
         System.out.println("\t10 numeros");
         
         for (int i = 0; i < 10; i++) {
-            System.out.print((i+1)+".Ingrese num: ");
-            array[i]=test.nextInt();
+            array[i]=r.nextInt(100)-50;
+            System.out.println("Numero "+(i+1)+": "+array[i]);
             
             if(array[i]>0){
                 posi++;

@@ -12,7 +12,7 @@ import java.util.*;
 
 /**
  *
- * @author Flores Herrera, Carlos Jesús
+ * @author Carlos Jesus Flores Herrera
  */
 public class Enun1 {
     static void CalHipo(double c1, double c2){

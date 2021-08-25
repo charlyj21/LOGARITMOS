@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 public class ejerc01 {
     public static void main(String[] args) {

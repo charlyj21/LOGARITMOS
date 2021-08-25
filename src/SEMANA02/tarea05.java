@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 public class tarea05 {
     public static void main(String[] args) {

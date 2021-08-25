@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Flores Herrera, Carlos Jesús
+ * @author Carlos Jesus Flores Herrera
  */
 public class productos {
     static long codigo;

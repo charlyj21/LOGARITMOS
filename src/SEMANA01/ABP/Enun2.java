@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.util.*;
 /**
  *
- * @author Flores Herrera, Carlos Jesús
+ * @author Carlos Jesus Flores Herrera
  */
 public class Enun2 {
     static double pi= 3.1416;
