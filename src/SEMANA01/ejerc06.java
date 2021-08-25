@@ -7,7 +7,7 @@ package SEMANA01;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 import java.util.Scanner;
 //hallar el area y perimetro de un cuadrado

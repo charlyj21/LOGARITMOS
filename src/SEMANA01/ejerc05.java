@@ -7,7 +7,7 @@ package SEMANA01;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 import java.util.Scanner;
 //hallar la distancia sabiendo que v=d/t

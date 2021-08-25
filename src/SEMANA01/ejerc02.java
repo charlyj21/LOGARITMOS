@@ -7,7 +7,7 @@ package SEMANA01;
 
 /**
  *
- * @author carlo
+ * @author Carlos Jesus Flores Herrera
  */
 public class ejerc02 {
     static void saludo(){
