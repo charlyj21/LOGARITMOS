@@ -13,7 +13,7 @@ public class ejerc38 {
         int suma=0;
         System.out.println("La suma de ");
         for(int i=100;i>=0;i=i-2){
-            System.out.println(i+" +");
+            System.out.print(i+" +");
             suma=suma+i;
         }
         System.out.println("es: "+suma);
