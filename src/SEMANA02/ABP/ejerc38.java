@@ -1,6 +1,6 @@
 /*
     38) Calcular la suma siguiente:
-    100 + 98 + 96 + 94 + . . . + 0 en este orden
+    100 + 98 + 96 + 94 + . . . + 0 en este orden.
  */
 package SEMANA02.ABP;
 
