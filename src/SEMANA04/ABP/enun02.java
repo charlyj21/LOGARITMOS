@@ -1,7 +1,38 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    Enunciado 2:
+    Un profesor imparte dos asignaturas, FPI y FPII, con 4 alumnos
+
+    De cada una de ellas, se obtiene la nota final mediante la media
+    ponderada de distintas partes, a saber: 
+    • El examen final: 50% 
+    • Las prácticas: 25%
+    • La exposición de un trabajo: 15%
+    • La participación en clase: 10%
+
+    Además, tanto en teoría como en prácticas se debe tener una nota
+    mínima de 4 sobre 10 para hacer media; si no se cumple, la nota
+    final será de un 3. 
+
+    Las cuatro notas de cada alumno de cada asignatura se tienen 
+    almacenadas en un fichero de texto, donde cada línea contiene
+    cuatro números reales: el primer valor es la nota del examen 
+    final; el segundo, la de las prácticas; el tercero, la del 
+    trabajo, y el cuarto, la de la participación en clase. 
+
+    El archivo de las notas de FPI se llama “notas_FPI.txt”; el 
+    archivo con las notas de FPII se llama “notas_FPII.txt”.
+
+    Se pide realizar un programa JAVA, correctamente modularizado,
+    que realice lo siguiente:
+
+    1. Cargue los datos necesarios en memoria en las estructuras de 
+    datos adecuadas.
+    2. Calcular las notas finales de las dos asignaturas, teniendo
+    en cuenta que quien no haya aprobado FPI no podrá ser calificado 
+    en FPII
+    3. Mostrar las notas de todos los alumnos, así como el número
+    de aprobados y de suspensos de cada asignatura
+
  */
 package SEMANA04.ABP;
 

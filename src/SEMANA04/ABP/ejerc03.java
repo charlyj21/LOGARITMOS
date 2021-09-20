@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    3-	Crear dos matrices de nxn y sumar sus valores, los 
+    resultados se deben almacenar en otra matriz. Los valores 
+    y la longitud, seran insertados por el usuario. Mostrar las 
+    matrices originales y el resultado.
  */
 package SEMANA04.ABP;
 

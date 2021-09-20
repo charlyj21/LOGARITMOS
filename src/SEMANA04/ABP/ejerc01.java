@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    1-Crear una matriz de 3×3 con los números del 1 al 9. 
+    Mostrar por pantalla, tal como aparece en la matriz
  */
 package SEMANA04.ABP;
 

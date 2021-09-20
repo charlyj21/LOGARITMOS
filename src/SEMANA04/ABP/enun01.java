@@ -1,7 +1,17 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    Enunciado 01:
+    Nos piden crear una matriz de 4x4 de números enteros que 
+    inicialmente esta vacía, nos piden hacer un menú con estas 
+    opciones:
+    • Rellenar TODA la matriz de números, debes pedírselo al usuario.
+    • Suma de una fila que se pedirá al usuario (controlar que elija una correcta)
+    • Suma de una columna que se pedirá al usuario (controlar que elija una correcta)
+    • Sumar la diagonal principal (ver ejemplo)
+    • Sumar la diagonal inversa (ver ejemplo)
+    • La media de todos los valores de la matriz
+    IMPORTANTE: hasta que no se haga la primera opción, el resto de
+    opciones no se deberán de ejecutar, simplemente mostrar un mensaje
+    donde diga que debes rellenar la matriz.
  */
 package SEMANA04.ABP;
 

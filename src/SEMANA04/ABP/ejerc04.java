@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+    4-	Mostrar la diagonal principal de una matriz, sabiendo
+    que la diagonal solo se encuentra en una matriz cuadrática. 
  */
 package SEMANA04.ABP;
 
